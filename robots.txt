@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/rebirth-cbd-gummies/sitemap.xml
+Sitemap: https://rebirth-cbd-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://rebirth-cbd-gummies.pages.dev/sitemap-cloudflare.xml
